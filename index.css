@@ -1,6 +1,12 @@
 body {
 	background-image: url("photositeback.jpg");
-	/*background-color: #cccccc;*/
+	background-color: #cccccc;
+	-webkit-background-size: cover;
+  	-moz-background-size: cover;
+  	-o-background-size: cover;
+  	background-size: cover;
+}
+	
 
 }
 p {
