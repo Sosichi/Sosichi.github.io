@@ -9,6 +9,13 @@ body {
 	
 
 }
-p {
-	color: red;
+h1 {
+	color: white;
+	size: 2em;
+	text-align: center;
+}
+h2 {
+	color: white;
+	size 1em;
+	text-align: center;
 }
