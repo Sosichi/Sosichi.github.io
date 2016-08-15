@@ -1,9 +1,8 @@
 body {
-	background-color: blue;
-	color: blue;
+	background-image: url("photositeback.jpg");
+	background-color: #cccccc;
 
 }
 p {
 	color: red;
-	size: 50px;
 }
